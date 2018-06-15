@@ -4,4 +4,5 @@
 
 ## Projects
 - [Maps](http://lishiyu.com/maps/)
+- [Notepad](http://git.lishiyu.com/Notepad/)
 - [KernelOne](http://git.lishiyu.com/KernelOne/)
